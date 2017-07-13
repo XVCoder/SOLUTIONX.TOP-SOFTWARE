@@ -1,9 +1,0 @@
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\bin\Debug\ColorCreator.exe.config
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\bin\Debug\ColorCreator.exe
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\bin\Debug\ColorCreator.pdb
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\obj\Debug\ColorCreator.csprojResolveAssemblyReference.cache
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\obj\Debug\ColorCreator.MainFrm.resources
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\obj\Debug\ColorCreator.Properties.Resources.resources
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\obj\Debug\ColorCreator.csproj.GenerateResource.Cache
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\obj\Debug\ColorCreator.exe
-F:\C#\001.NET就业自学\C_Sharp实际应用\ColorCreator\obj\Debug\ColorCreator.pdb
