@@ -1,0 +1,10 @@
+body{
+    padding: 10px;
+}
+
+.item{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 20px;
+    font-size: 30px;
+}
