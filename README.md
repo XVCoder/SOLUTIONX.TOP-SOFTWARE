@@ -1,4 +1,3 @@
-## 此仓库用于存储本渣自己编写的小程序，仅做测试和学习使用
-* ColorCreator用于根据十六进制代码生成并展示颜色
+## store some compiled instances which based on .net framework, just for testing and learning
+* ColorCreator --display a color by hexadecimal code
 
-测试
